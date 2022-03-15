@@ -1,4 +1,4 @@
-Hi, I'm Sacha 👋
+<h1>Hi, I'm Sacha 👋</h1>
 
 Passionate about product, media, entrepreneurship and sports.
 I learned to code @ Le Wagon, a web development bootcamp in 2022.
